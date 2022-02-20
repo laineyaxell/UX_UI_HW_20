@@ -1,3 +1,24 @@
 .headerimage {
-    border: 10px black;
+    border: 3px solid black;
+    padding: 50px;
+    margin: 0;
+}
+#headerimg {
+    text-align: center;
+}
+.intro {
+    padding-top: 20;
+    border: 3px solid black;
+}
+#introimg {
+    width: 50%;
+}
+#brownie {
+    float: right;
+}
+.jumbotron {
+    border: 3px solid black;
+}
+.details {
+    border: 3px solid black;
 }
